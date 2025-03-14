@@ -23,7 +23,7 @@ This project is a REST API featuring user authentication and registration, as we
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-repo/your-project.git
+git clone https://github.com/splsf4j/OneMedia-Spring-Security-JWT.git
 ```
 2. Navigate to the project directory:
 ```bash
