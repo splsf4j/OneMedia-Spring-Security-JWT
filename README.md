@@ -107,8 +107,7 @@ GET /external/posts
 - **Posts Module**: Fetches and stores posts from the external API.
 
 ## Contact
-Project Author: [Your Name]  
-Email: [Your Email]  
+Project Author: [Vladislav Baryshev]  
+Email: [vladislavbaryshev97@gmail.com]  
 
-## License
-This project is licensed under the MIT License.
+
