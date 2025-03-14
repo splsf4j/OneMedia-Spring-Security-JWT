@@ -1,0 +1,12 @@
+org.vladislavb.onemediatesttask
+org.vladislavb.onemediatesttask.config
+org.vladislavb.onemediatesttask.controller
+org.vladislavb.onemediatesttask.dto
+org.vladislavb.onemediatesttask.entity
+org.vladislavb.onemediatesttask.exceprionHandler
+org.vladislavb.onemediatesttask.mapper
+org.vladislavb.onemediatesttask.repository
+org.vladislavb.onemediatesttask.security
+org.vladislavb.onemediatesttask.security.jwt
+org.vladislavb.onemediatesttask.service
+org.vladislavb.onemediatesttask.service.impl
